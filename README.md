@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/shyam-206/shyam-206/blob/bb3cbc0dc5a67dad6e3c7203c4e16317146b9dc1/banner.png">
+<img src="https://github.com/shyam-206/shyam-206/blob/8b13e45bb6f57465c5eb455d4233540c2d135b0e/Images/banner.png">
 <h1> Hello Folks 👋,I'm Shyam Dhokiya</h1>
 
 <p>
