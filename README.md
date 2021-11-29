@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </a>
   
   <!--Gmail-->
-  <a href="shyamdhokiya15@gmail.com" target="blank">
+  <a title="Email" href="mailto:shyamdhokiya15@gmail.com" target="blank">
     <img align="center" src="https://github.com/shyam-206/shyam-206/blob/16967ee0fab5dd8e457d7ef7a6c384d23ca89ccf/Images/gmail%20icon.png" 
         alt="Shyam Dhokiya" height="30" width="40" />
    </a>
