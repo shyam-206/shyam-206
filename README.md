@@ -62,12 +62,10 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shyam-206&label=Profile%20views&color=0e75b6&style=flat">
 </p>
-<p align="left">
+<div align="center">
   <a href="https://github.com/shyam-206"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam-206&theme=algolia&show_icons=true" />     </a> 
-</p>
-<p align="left">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shyam-206&theme=algolia&show_icons=true" />       </a> 
   <a href="https://github.com/shyam-206"> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-206&theme=algolia#version3" /> 
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-206&theme=algolia#version3" /> 
   </a> 
-</p>
+<div>
