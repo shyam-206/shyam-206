@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- connect with me -->
-<h4> 🔗&nbsp;*Connect with me*</h4>
+<h3> 🔗&nbsp;*Connect with me*</h3>
 <p align="left">
   
   <!-- LinkedIn-->
