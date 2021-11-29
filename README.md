@@ -47,8 +47,27 @@ Here are some ideas to get you started:
   <a href="https://github.com/shyam-206" target="blank">
     <img align="center" src="https://github.com/shyam-206/shyam-206/blob/21b5e29e1245efca0c0124ba3050fac568fe5f48/Images/github_icon.png" alt="Shyam Dhokiya" height="30" width="30" />
   </a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+
+### :octocat: My Github Stats 
   
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shyam-206&label=Profile%20views&color=0e75b6&style=flat">
 </p>
-
+<p align="left"> 
+  <a href="https://github.com/shyam-206"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam-206&show_icons=true&theme=algolia" />     </a> 
+</p> 
+<p align="left"> 
+  <a href="https://github.com/shyam-206"> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-206&theme=algolia#version3" /> 
+  </a> 
+</p>
