@@ -64,10 +64,10 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
   <a href="https://github.com/shyam-206"> 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shyam-206&theme=algolia&show_icons=true" />    </a> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam-206&theme=algolia&show_icons=true" />    </a> 
 </p>
 <p align="left">
   <a href="https://github.com/shyam-206"> 
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-206&theme=algolia#version3" /> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-206&theme=algolia#version3" /> 
   </a> 
 </p>
