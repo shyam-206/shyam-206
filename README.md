@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/shyam-206/shyam-206/blob/8b13e45bb6f57465c5eb455d4233540c2d135b0e/Images/banner.png">
-<h1>Hi,I'm Shyam! Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h1>Hi,I'm Shyam! Great to see you here!</h1>
 
 <p>
  I am Shaym Dhokiya, currently pursuing Computer Engineering from Government Engineering College-Rajkot.Currently learning Data Structure and Algorithms with C++ and exploring Competitive programming.
