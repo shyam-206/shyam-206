@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1>Hi,I'm Shyam! Great to see you here!</h1>
 <hr>
 <p>
- A computer engineering student who studying from Government Engineering College -Rajkot. Who had knowledge in various languages C,C++,Java and Python.<br>
- A self taught programmer who Love to solve programming problems.Currently keep practising the Data Structure and Algorithm in various platform like  leetcode, GFG, Codeforces and gave the online coding contests.<br>
-Beside that I also love the Web development and Data Science. Currently Working towards improved my knowledge in Web development and in future also learn the Data Science.
+ &#8226; A computer engineering student who studying from Government Engineering College -Rajkot. Who had knowledge in various languages C,C++,Java and Python.<br>
+ &#8226; A self taught programmer who Love to solve programming problems.Currently keep practising the Data Structure and Algorithm in various platform like  leetcode, GFG, Codeforces and gave the online coding contests.<br>
+&#8226; Beside that I also love the Web development and Data Science. Currently Working towards improved my knowledge in Web development and in future also learn the Data Science.
 </p>
 <hr>
 <!-- connect with me -->
